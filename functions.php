@@ -3,6 +3,7 @@
 
 /* スタイルとスクリプトの登録 */
 
+/*
 function empty_theme_scripts() {
 
     // スタイル
@@ -13,7 +14,7 @@ function empty_theme_scripts() {
 
 }
 add_action( 'wp_enqueue_scripts', 'empty_theme_scripts' );
-
+*/
 
 /* メニューの登録 */
 
